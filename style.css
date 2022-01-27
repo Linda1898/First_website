@@ -1,0 +1,33 @@
+table, th, td {
+    border: 1px solid black;
+  }
+  body {
+    font-family: 'Source Serif 4', sans-serif;
+    background-color:#4455E5;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+    color:#00084D;
+
+}
+h1 {
+    font-family:'Mochiy Pop P One', sans-serif;
+    font-size:50px
+}
+    
+h5 {
+    font-family: 'Mochiy Pop P One', sans-serif;
+   
+}
+.sizeLA {
+    width:30%;
+    height:5%;
+    align-content: center;
+}
+.FontLA {
+    color:#00084D;
+}
+.positionLA {
+    align-content: center;
+}
